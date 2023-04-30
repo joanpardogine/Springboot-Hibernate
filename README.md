@@ -33,15 +33,15 @@
 
 > **Create Desktop Shortcut**
 >
-> -[x] IntelliJ IDEA Community Edition
+-[x] IntelliJ IDEA Community Edition
 > 
 > **Update Context Menu**
 >
-> -[x] Add "Open Folder as Project"
+- [x] Add "Open Folder as Project"
 > 
 > **Update **```PATH```** Variable (restart needed)> **
 >
-> -[x] Add "**```bin```**" folder to the > **```PATH```**
+-[x] Add "**```bin```**" folder to the > **```PATH```**
 > 
 > **Create associations**
 >
