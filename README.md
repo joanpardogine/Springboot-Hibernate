@@ -32,15 +32,19 @@
 ### **4.** Assegura't que estàn marcades les segünents opcions:
 
 > **Create Desktop Shortcut**
+>
 > -[x] IntelliJ IDEA Community Edition
 > 
 > **Update Context Menu**
+>
 > -[x] Add "Open Folder as Project"
 > 
 > **Update **```PATH```** Variable (restart needed)> **
+>
 > -[x] Add "**```bin```**" folder to the > **```PATH```**
 > 
 > **Create associations**
+>
 > -[x] **```.java```**
 
 quan estiguin totes aquestes opcions marcades, pitja el botó **següent** (<b><code> <u>N</u>ext ></b></code> ) per continuar,
