@@ -31,3 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
+fitxers/ideaIC-2023.1.1.exe
+.gitignore
