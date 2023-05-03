@@ -39,7 +39,7 @@
 > 
 > - :white_check_mark: Add "Open Folder as Project"
 >  
-> ####  **Update **```PATH```** Variable (restart needed)> **
+> ####  **Update ```PATH``` Variable (restart needed)**
 > 
 > - :white_check_mark: Add "**```bin```**" folder to the > **```PATH```**
 > 
