@@ -10,9 +10,9 @@
 * Community Edition
 * The IDE for pure Java and Kotlin development
 
-#### Copia aquest fitxer [ideaIC-2023.1.1.exe](./fitxers/ideaIC-2023.1.1.exe) ```633 MB (663.963.584 bytes)```
+#### Copia aquest fitxer [**```ideaIC-2023.1.1.exe```**](./fitxers/ideaIC-2023.1.1.exe) ```633 MB (663.963.584 bytes)```
 
-#### O fes servir aquest enllaç directe [Use the direct link.ideaIC-2023.1.1.exe](https://download.jetbrains.com/idea/ideaIC-2023.1.1.exe?_gl=1*1k8vect*_ga*MTg2MTY5NjQ4LjE2Nzk5Mzk4Njc.*_ga_9J976DJZ68*MTY4Mjg3MzkwNy4yLjEuMTY4Mjg3Mzk0MC4yNy4wLjA.&_ga=2.48120163.554094189.1682873907-186169648.1679939867)
+#### O fes servir aquest enllaç de descàrrega directe [Use the direct link **```ideaIC-2023.1.1.exe```**](https://download.jetbrains.com/idea/ideaIC-2023.1.1.exe?_gl=1*1k8vect*_ga*MTg2MTY5NjQ4LjE2Nzk5Mzk4Njc.*_ga_9J976DJZ68*MTY4Mjg3MzkwNy4yLjEuMTY4Mjg3Mzk0MC4yNy4wLjA.&_ga=2.48120163.554094189.1682873907-186169648.1679939867)
 
 <summary>
 
@@ -31,23 +31,23 @@
 ![IntelliJ-IDEA_00003.png](./imatges/IntelliJ-IDEA_00003.png)
 ### **4.** Assegura't que estàn marcades les segünents opcions:
 
-### **Create Desktop Shortcut**
+> #### **Create Desktop Shortcut**
+> 
+> - :white_check_mark: IntelliJ IDEA Community Edition
+> 
+> ####  **Update Context Menu**
+> 
+> - :white_check_mark: Add "Open Folder as Project"
+>  
+> ####  **Update **```PATH```** Variable (restart needed)> **
+> 
+> - :white_check_mark: Add "**```bin```**" folder to the > **```PATH```**
+> 
+> ####  **Create associations**
+> 
+> - :white_check_mark: **```.java```**
 
-- [x] IntelliJ IDEA Community Edition
-
-### **Update Context Menu**
-
-- [x] Add "Open Folder as Project"
- 
-### **Update **```PATH```** Variable (restart needed)> **
-
-- [x] Add "**```bin```**" folder to the > **```PATH```**
-
-### **Create associations**
-
-- [x] **```.java```**
-
-quan estiguin totes aquestes opcions marcades, pitja el botó **següent** (<b><code> <u>N</u>ext ></b></code> ) per continuar,
+Quan estiguin totes aquestes opcions marcades, pitja el botó **següent** (<b><code> <u>N</u>ext ></b></code> ) per continuar,
 
 ![IntelliJ-IDEA_00004.png](./imatges/IntelliJ-IDEA_00004.png)
 
